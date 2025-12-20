@@ -1,0 +1,14 @@
+1. class and object
+2. class has data / attributes and function / methods
+    > code walkthrough
+    > attributed called itself and functions called manually
+3. why python is oop? Evetything in python is object
+4. Advantages of oops
+    > can create ur own data type
+    > code reuseability
+    > collab
+    > debugging
+5. End to End chat book project
+    > Encapsulation
+    > getter and setter
+    > easy to colab
