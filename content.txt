@@ -9,6 +9,8 @@
     > collab
     > debugging
 5. End to End chat book project
+    > function vs method
     > Encapsulation
     > getter and setter
     > easy to colab
+    > we can create attributes outside the class which is not in constructor
